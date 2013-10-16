@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Heart Rate Monitor Using SmartPhone Camera</string>
+    <string name="app_name">Roho Rate</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+    <string name="disp">This application measures your heart-beat using the phone camera. Tap the camera gently with your finger and Click the Button to measure your heart beat.</string>
+</resources>
